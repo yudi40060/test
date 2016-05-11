@@ -1,0 +1,6 @@
+framework module ddd {
+  umbrella header "ddd.h"
+
+  export *
+  module * { export * }
+}
